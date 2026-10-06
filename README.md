@@ -1,6 +1,6 @@
 # Hilbert's Hotel — Trabalho T1 (Verificação e Validação, PUCRS 2026/I)
 
-![CI](https://github.com/<usuario>/<repositorio>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/gabrielcaamargo/t1-ver-e-val/actions/workflows/ci.yml/badge.svg)
 ![Cobertura](https://img.shields.io/badge/cobertura-100%25-brightgreen)
 ![Testes](https://img.shields.io/badge/testes-37%20passando-brightgreen)
 ![Node](https://img.shields.io/badge/node-%E2%89%A518-339933)
