@@ -1,0 +1,22 @@
+{
+  "name": "hilberts-hotel-tests",
+  "version": "1.0.0",
+  "description": "Trabalho T1 de Verificação e Validação (PUCRS) - kata Hilbert's Hotel com testes baseados em exemplos e em propriedades",
+  "main": "src/hilbertsHotel.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "fast-check": "^3.23.2",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": ["src/**/*.js"],
+    "coverageThreshold": {
+      "global": { "branches": 100, "functions": 100, "lines": 100, "statements": 100 }
+    }
+  }
+}
