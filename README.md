@@ -1,6 +1,9 @@
 # Hilbert's Hotel — Trabalho T1 (Verificação e Validação, PUCRS 2026/I)
 
 ![CI](https://github.com/<usuario>/<repositorio>/actions/workflows/ci.yml/badge.svg)
+![Cobertura](https://img.shields.io/badge/cobertura-100%25-brightgreen)
+![Testes](https://img.shields.io/badge/testes-37%20passando-brightgreen)
+![Node](https://img.shields.io/badge/node-%E2%89%A518-339933)
 
 Kata: [Hilbert's Hotel](https://www.codewars.com/kata/690743bd39f83ecf66068522) (Codewars, 7 kyu).
 Linguagem: JavaScript (Node 18+). Testes: Jest + [fast-check](https://github.com/dubzzz/fast-check).
@@ -71,4 +74,3 @@ Todos os integrantes participaram da leitura dos artigos, da escrita da resenha 
 1. A. L. Corgozinho, M. T. Valente, H. Rocha. *How Developers Implement Property-Based Tests*. ICSME 2023 (NIER).
 2. H. Goldstein, J. W. Cutler, D. Dickstein, B. C. Pierce, A. Head. *Property-Based Testing in Practice*. ICSE 2024.
 3. B. K. Aichernig, R. Schumi. *Property-based testing of web services by deriving properties from business-rule models*. Software & Systems Modeling 18, 2019.
-# t1-ver-e-val
