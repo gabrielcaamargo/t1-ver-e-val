@@ -64,8 +64,8 @@ O mapeamento completo está em [`tests.md`](tests.md).
 | Integrante | Contribuição |
 |---|---|
 | Gabriel Bittencourt | <!-- descrever --> |
-| Henrique Bueno | <!-- Resenha --> |
-| Mateus Neubarth | <!-- Resenha --> |
+| Henrique Bueno | Resenha |
+| Mateus Neubarth | <!-- descrever --> |
 
 Todos os integrantes participaram da leitura dos artigos, da escrita da resenha e da revisão dos testes.
 
